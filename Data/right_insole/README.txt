@@ -1,0 +1,2 @@
+The datasets reported here are for a right-foot insole. The dielectric material used here is not the Infinergy from BASF, and these datasets have not been considered in the paper. 
+We release them to allow for a comparison of the different performances when different dielectrics are considered.
